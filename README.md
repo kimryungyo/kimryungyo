@@ -5,7 +5,7 @@
 [![kimryungyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimryungyo&count_private=true&show_icons=true&theme=radical  )](https://github.com/kimryungyo/github-readme-stats)
 
 
-# Problem Solving
+# PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimryungyo)](https://solved.ac/kimryungyo/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimryungyo&theme=cold)
 
